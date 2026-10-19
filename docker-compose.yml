@@ -1,0 +1,12 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: zhanserikkyzy-akbota-devops
+    container_name: zhanserikkyzy-akbota-container
+    environment:
+      STUDENT_NAME: Akbota
+      STUDENT_SURNAME: Zhanserikkyzy
+      STUDENT_GROUP: IT2-2308
+      STUDENT_ID: "37106"
