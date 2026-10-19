@@ -1,0 +1,5 @@
+Name: Akbota
+Surname: Zhanserikkyzy
+Group: IT2-2308
+Student ID: 37106
+Course: DevOps
